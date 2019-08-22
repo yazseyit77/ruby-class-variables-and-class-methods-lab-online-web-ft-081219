@@ -30,7 +30,7 @@ class Song
 
 
     def self.genre_count
-
+      @@genres.each
     end
 
 end
